@@ -1,1 +1,1 @@
-# CourseSera
+# CourseS
